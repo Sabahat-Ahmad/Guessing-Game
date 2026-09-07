@@ -1,4 +1,15 @@
-# Guessing-Game
-A simple Python console-based game where the player tries to guess a randomly generated secret number with Too High and Too Low hints.
-<br>
-Developer - Sabahat Ahmad
+# Guessing Game
+
+## Project Name
+Guessing Game
+
+## Language
+Python
+
+## Description
+A simple console-based number guessing game.
+
+## How to Run
+1. Make sure Python is installed.
+2. Open the project folder.
+3. Run the guessing_game.py file.
